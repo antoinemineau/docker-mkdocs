@@ -1,7 +1,7 @@
 # Mkdocs
-[mkdocs](http://www.mkdocs.org/) is a simple static file genetor.
+[mkdocs](http://www.mkdocs.org/) is a simple static file generator.
 You can use it to generate a documentation site from YAML configuration file and
-markdwon content
+markdown content.
 
 ## Build it
 ```bash
